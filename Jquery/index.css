@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed&display=swap');
+
+.comments {
+  border: 1px solid green;
+  height: 30px;
+  padding: 1rem;
+  margin: 20px;
+  border-radius: 10px;
+}
+#load {
+    margin: 15px;
+}
+.infoPallete {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid grey;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+}
+.infoPallete:hover {
+    color: black;
+    background-color: white;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
